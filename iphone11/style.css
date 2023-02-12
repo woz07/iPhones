@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(17, 17, 17);
+}
+
+.phone {
+    background-color: #2b2b2b;
+    padding: 10px;
+    width: 220px;
+    height: 450px;
+    border-radius: 35px;
+    border: 3px solid;
+    margin: auto;
+    margin-top: 175px;
+    display: flex;
+}
+
+.camera-box {
+    border: 2px solid black;
+    border-radius: 25%;
+    padding: 2.5px;
+}
+
+.upper-phone {
+    width: 220px;
+    height: 90px;
+}
+
+.len-1, .len-2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.len-2 {
+    margin-top: -10px;
+}
+
+.flash-box {
+    margin-top: -3px;
+}
+
+.flash {
+    width: 15px;
+    height: 15px;
+    border-radius: 10px;
+    justify-self: left;
+    margin-left: 50px;
+}
+
+.middle-phone {
+    width: 250px;
+    height: 140px;
+  }
+
+  .apple-logo {
+    margin-top: 150px;
+    margin-right: 80px
+  }
